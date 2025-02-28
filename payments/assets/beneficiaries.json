@@ -1,0 +1,178 @@
+{
+  "accounts": [
+      {
+          "number": "123456789",
+          "balance": 1000.50
+      },
+      {
+          "number": "987654321",
+          "balance": 2500.75
+      },
+      {
+          "number": "555555555",
+          "balance": 3000.00
+      }
+  ],
+  "beneficiaries": [
+      {
+          "id": "1",
+          "name": "John Doe",
+          "bank": "ABSA",
+          "bankCode": "632005",
+          "branchName": "Johannesburg",
+          "branchCode": "250655"
+      },
+      {
+          "id": "2",
+          "name": "Jane Smith",
+          "bank": "Standard Bank",
+          "bankCode": "051001",
+          "branchName": "Cape Town",
+          "branchCode": "020009"
+      },
+      {
+          "id": "3",
+          "name": "Alice Johnson",
+          "bank": "Nedbank",
+          "bankCode": "198765",
+          "branchName": "Durban",
+          "branchCode": "198765"
+      },
+      {
+          "id": "4",
+          "name": "Bob Brown",
+          "bank": "FNB",
+          "bankCode": "250655",
+          "branchName": "Pretoria",
+          "branchCode": "250655"
+      },
+      {
+          "id": "5",
+          "name": "Charlie Davis",
+          "bank": "Capitec",
+          "bankCode": "470010",
+          "branchName": "Bloemfontein",
+          "branchCode": "470010"
+      },
+      {
+          "id": "6",
+          "name": "Diana Evans",
+          "bank": "Investec",
+          "bankCode": "580105",
+          "branchName": "Sandton",
+          "branchCode": "580105"
+      },
+      {
+          "id": "7",
+          "name": "Evan Foster",
+          "bank": "TymeBank",
+          "bankCode": "678910",
+          "branchName": "Port Elizabeth",
+          "branchCode": "678910"
+      },
+      {
+          "id": "8",
+          "name": "Fiona Green",
+          "bank": "Discovery Bank",
+          "bankCode": "679000",
+          "branchName": "East London",
+          "branchCode": "679000"
+      },
+      {
+          "id": "9",
+          "name": "George Harris",
+          "bank": "Bidvest Bank",
+          "bankCode": "462005",
+          "branchName": "Polokwane",
+          "branchCode": "462005"
+      },
+      {
+          "id": "10",
+          "name": "Hannah Irving",
+          "bank": "African Bank",
+          "bankCode": "430000",
+          "branchName": "Nelspruit",
+          "branchCode": "430000"
+      },
+      {
+          "id": "11",
+          "name": "Ian Jackson",
+          "bank": "Ubank",
+          "bankCode": "431010",
+          "branchName": "Kimberley",
+          "branchCode": "431010"
+      },
+      {
+          "id": "12",
+          "name": "Jackie King",
+          "bank": "Sasfin Bank",
+          "bankCode": "683000",
+          "branchName": "Rustenburg",
+          "branchCode": "683000"
+      },
+      {
+          "id": "13",
+          "name": "Kevin Lewis",
+          "bank": "Grindrod Bank",
+          "bankCode": "584000",
+          "branchName": "George",
+          "branchCode": "584000"
+      },
+      {
+          "id": "14",
+          "name": "Laura Martin",
+          "bank": "Mercantile Bank",
+          "bankCode": "450105",
+          "branchName": "Welkom",
+          "branchCode": "450105"
+      },
+      {
+          "id": "15",
+          "name": "Michael Nelson",
+          "bank": "Bank Zero",
+          "bankCode": "888000",
+          "branchName": "Pietermaritzburg",
+          "branchCode": "888000"
+      },
+      {
+          "id": "16",
+          "name": "Nina Owens",
+          "bank": "Grobank",
+          "bankCode": "410506",
+          "branchName": "Vereeniging",
+          "branchCode": "410506"
+      },
+      {
+          "id": "17",
+          "name": "Oscar Perez",
+          "bank": "Finbond Mutual Bank",
+          "bankCode": "460105",
+          "branchName": "Klerksdorp",
+          "branchCode": "460105"
+      },
+      {
+          "id": "18",
+          "name": "Paula Quinn",
+          "bank": "Postbank",
+          "bankCode": "460005",
+          "branchName": "Mthatha",
+          "branchCode": "460005"
+      },
+      {
+          "id": "19",
+          "name": "Quincy Roberts",
+          "bank": "HBZ Bank",
+          "bankCode": "570105",
+          "branchName": "Stellenbosch",
+          "branchCode": "570105"
+      },
+      {
+          "id": "20",
+          "name": "Rachel Scott",
+          "bank": "Bank of Athens",
+          "bankCode": "410506",
+          "branchName": "Grahamstown",
+          "branchCode": "410506"
+      }
+  ]
+}
